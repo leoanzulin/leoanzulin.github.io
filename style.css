@@ -13,3 +13,10 @@ li{
 #sobre{
     margin: 10px 100px
 }
+a{
+    text-decoration: none;
+    padding: 2%;
+}
+a:hover {
+    background-color: chocolate;
+}
