@@ -6,3 +6,11 @@
 img{
     border-radius: 20%;
 }
+li{
+    list-style: none;
+    list-style-image: url(perfil.jpg);
+ 
+}
+#sobre{
+    margin: 10px 100px
+}
